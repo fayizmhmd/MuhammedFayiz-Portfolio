@@ -3,33 +3,20 @@ import WorkItem from "./WorkItem";
 
 const data = [
   {
-    year: 2020,
-    title: "content creator",
-    duration: "3 years",
-    details:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum. Cras venenatis euismod malesuada. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc. Etiam pharetra, erat sed fermentum feugiat, velit mauris egestas quam, ut aliquam massa nisl quis neque. Suspendisse in orci enim.",
-  },
-  {
     year: 2021,
-    title: "Google",
-    duration: "5 years",
+    title: "Software trainee",
+    duration: "1 Year",
     details:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum. Cras venenatis euismod malesuada. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc. Etiam pharetra, erat sed fermentum feugiat, velit mauris egestas quam, ut aliquam massa nisl quis neque. Suspendisse in orci enim.",
+      "I worked as a Software Trainee at Soften Technologies for one year, where I gained hands-on experience in PHP, CodeIgniter, and MySQL. During my time there, I developed and maintained web applications, honed my coding skills, and collaborated with the team to solve complex technical challenges. This experience solidified my foundation in web development and prepared me for future roles in software engineering.",
   },
   {
-    year: 2020,
-    title: "Amazon",
-    duration: "4 years",
+    year: 2023,
+    title: "Howin Cloud",
+    duration: "Pursuing",
     details:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum. Cras venenatis euismod malesuada. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc. Etiam pharetra, erat sed fermentum feugiat, velit mauris egestas quam, ut aliquam massa nisl quis neque. Suspendisse in orci enim.",
+      "I am currently working as a Software Intern at Howin Cloud, focusing on Laravel, React.js, and MySQL. My role involves developing dynamic web applications, integrating back-end services, and managing databases. This internship has allowed me to apply my skills in real-world projects, collaborate with experienced developers, and deepen my understanding of full-stack development, preparing me for a successful career in software engineering.",
   },
-  {
-    year: 2020,
-    title: "Facebook",
-    duration: "2 years",
-    details:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum. Cras venenatis euismod malesuada. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc. Etiam pharetra, erat sed fermentum feugiat, velit mauris egestas quam, ut aliquam massa nisl quis neque. Suspendisse in orci enim.",
-  },
+  
 ];
 const Work = () => {
   return (
