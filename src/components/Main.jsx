@@ -8,6 +8,7 @@ import {
   FaLinkedin,
   FaTwitter,
   FaFileDownload,
+  FaGithub,
 } from "react-icons/fa";
 
 const Main = () => {
@@ -45,12 +46,13 @@ const Main = () => {
             />
           </h2>
           <div className="flex justify-between pt-6 pb-12 max-w-[200px] w-full">
-            <FaTwitter className="cursor-pointer" size={20} />
-            <FaFacebookF className="cursor-pointer" size={20} />
-            <a href="https://www.instagram.com/fayizmhmd_?igsh=aXAxcmw0eTZ3Mzh6" target="_blank" rel="noopener noreferrer">
-            <FaInstagram className="cursor-pointer" size={20} /></a>
+            <a href="https://github.com/fayizmhmd" target="_blank" rel="noopener noreferrer">
+            <FaGithub className="cursor-pointer" size={20} /></a>
+            {/* <FaFacebookF className="cursor-pointer" size={20} /> */}
             <a href="https://www.linkedin.com/in/fayizmhmd/" target="_blank" rel="noopener noreferrer">
             <FaLinkedin className="cursor-pointer" size={20} /></a>
+            <a href="https://www.instagram.com/fayizmhmd_?igsh=aXAxcmw0eTZ3Mzh6" target="_blank" rel="noopener noreferrer">
+            <FaInstagram className="cursor-pointer" size={20} /></a>
           </div>
           <div className=" max-w-[150px] w-full mx-auto bg-opacity-75 rounded-full shadow-lg bg-gray-100 shadow-gray-400 py-2 cursor-pointer hover:scale-110 ease-in duration-200">
             <a
