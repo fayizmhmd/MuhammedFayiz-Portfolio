@@ -45,7 +45,7 @@ const Main = () => {
               repeat={Infinity}
             />
           </h2>
-          <div className="flex justify-between pt-6 pb-12 max-w-[200px] w-full">
+          <div className="flex justify-between pt-6 pb-12 max-w-[150px] w-full">
             <a href="https://github.com/fayizmhmd" target="_blank" rel="noopener noreferrer">
             <FaGithub className="cursor-pointer" size={20} /></a>
             {/* <FaFacebookF className="cursor-pointer" size={20} /> */}

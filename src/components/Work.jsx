@@ -4,13 +4,13 @@ import WorkItem from "./WorkItem";
 const data = [
   {
     year: 2021,
-    title: "Software trainee",
+    title: "Soften Technologies",
     duration: "1 Year",
     details:
       "I worked as a Software Trainee at Soften Technologies for one year, where I gained hands-on experience in PHP, CodeIgniter, and MySQL. During my time there, I developed and maintained web applications, honed my coding skills, and collaborated with the team to solve complex technical challenges. This experience solidified my foundation in web development and prepared me for future roles in software engineering.",
   },
   {
-    year: 2023,
+    year: 2024,
     title: "Howin Cloud",
     duration: "Pursuing",
     details:

@@ -20,6 +20,21 @@ const ProjectItem = ({ img, title }) => {
             More Info
           </p>
         </a>
+        <a href="">
+          <p className="text-center p-3 rounded-lg bg-white text-gray-400 font-bold cursor-pointer text-lg mt-5">
+            More Info
+          </p>
+        </a>
+        <a href="">
+          <p className="text-center p-3 rounded-lg bg-white text-gray-400 font-bold cursor-pointer text-lg mt-5">
+            More Info
+          </p>
+        </a>
+        <a href="">
+          <p className="text-center p-3 rounded-lg bg-white text-gray-400 font-bold cursor-pointer text-lg mt-5">
+            More Info
+          </p>
+        </a>
       </div>
     </div>
   );
